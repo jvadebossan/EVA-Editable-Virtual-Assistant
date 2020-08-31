@@ -2,8 +2,9 @@
 
 Esse projeto consiste em um assistente virtual por comandos de voz.
 Para poder executar:
-Importe: 
-pip install pyaudio (arquivo incluído no programa)
+
+Requerimentos: 
+pip install Pyaudio (arquivo incluído no programa, basta digitar "Py" e apertar TAB)
 pip install speech_recognition
 
 Coloque tudo na mesma pasta, e execute o MAIN
